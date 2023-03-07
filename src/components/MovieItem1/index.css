@@ -1,0 +1,46 @@
+.thumbnail-logo {
+  height: 150px;
+  width: 150px;
+}
+
+.trigger-button {
+  background-color: #ffffff;
+  height: 155px;
+  width: 155px;
+  border: none;
+  outline: none;
+}
+
+.pop-up-container {
+  height: 400px;
+  width: 400px;
+  background-color: #ffffff;
+  justify-content: space-around;
+  align-items: space-around;
+}
+
+.main-container1 {
+  background-color: #ffffff;
+  height: 400px;
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  align-items: space-around;
+}
+
+.close-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.close-button {
+  height: 40px;
+  width: 40px;
+  border: none;
+  outline: none;
+}
+
+.react-video-size {
+  height: 250px;
+  width: 250px;
+}
